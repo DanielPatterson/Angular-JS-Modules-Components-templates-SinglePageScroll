@@ -1,2 +1,2 @@
-# Multiple-Views-Routing-and-Templates---SinglePageScroll
-Multiple Views, Routing and Templates - SinglePageScroll Template
+# Multiple-Views-Routing-and-Templates - SinglePageScroll
+Using Modules and Components to construct the views using templates, Single page version with scoll functionality
